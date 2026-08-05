@@ -2,7 +2,15 @@
 How to Fix me.com Email Sign In Not Working: An Easy Guide
 ====================================================================
 
-A me.com email address is a legacy Apple email account that was originally introduced through the MobileMe service. Although MobileMe has been discontinued, eligible users can continue using their me.com email accounts through Apple's iCloud platform with their Apple Account credentials. If you are unable to sign in to your me.com email account, the issue may be caused by incorrect login information, browser problems, internet connectivity issues, two-factor authentication, or temporary Apple service interruptions.
+A me.com email address is a legacy Apple email account that was originally introduced through the MobileMe service.
+
+.. image:: https://img.shields.io/badge/Get%20Support%20👉%20Click%20Here-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 400px
+   :align: center
+   :target: https://getchatsupport.live/
+   :alt: Support Now Button
+
+Although MobileMe has been discontinued, eligible users can continue using their me.com email accounts through Apple's iCloud platform with their Apple Account credentials. If you are unable to sign in to your me.com email account, the issue may be caused by incorrect login information, browser problems, internet connectivity issues, two-factor authentication, or temporary Apple service interruptions.
 
 Fortunately, most sign-in problems can be resolved with a few simple troubleshooting steps. This guide explains the common causes of me.com email sign-in issues and how to fix them.
 
